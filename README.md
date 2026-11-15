@@ -3,7 +3,7 @@
 This repo has two skills that I made. A skill is a folder holding a `SKILL.md` file of instructions, which an AI agent loads when a request matches the description at the top of the file. Claude, Gemini CLI, and Antigravity all read this format.
 
 1. `ethical-thinking` helps you reason through a decision with ethical stakes, such as whether to launch a feature, using the Ethics Toolkit from Stanford's McCoy Family Center for Ethics in Society.
-2. `eamonn-voice` makes text that will go out under my name read as if I wrote it, and keeps out the habits that make readers suspect an AI wrote it.
+2. `eamonn-voice` makes text in a style that I would feel comfortable attaching my name to.
 
 The first is for anyone. The second describes how I write, so it is not much use to anyone else as-is, but it might be a useful model if you want to make one for your own writing.
 
