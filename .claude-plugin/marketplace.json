@@ -1,0 +1,23 @@
+{
+  "name": "eobrain-skills",
+  "description": "Éamonn O'Brien-Strain's Claude skills",
+  "owner": {
+    "name": "Éamonn O'Brien-Strain"
+  },
+  "plugins": [
+    {
+      "name": "ethical-thinking",
+      "description": "Reason through a decision with ethical stakes using Stanford's Ethics Toolkit",
+      "source": "./",
+      "strict": false,
+      "skills": ["./ethical-thinking"]
+    },
+    {
+      "name": "eamonn-voice",
+      "description": "Write in Éamonn O'Brien-Strain's voice, without the tells of AI-generated prose",
+      "source": "./",
+      "strict": false,
+      "skills": ["./eamonn-voice"]
+    }
+  ]
+}
